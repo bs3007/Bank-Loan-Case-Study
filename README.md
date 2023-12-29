@@ -39,4 +39,4 @@ Objectivity: Ensure the study's source and methodology are credible and unbiased
 ## Additional Resources
 https://docs.google.com/spreadsheets/d/15gZ_R-JppGu9yg3WSqsQPWqVSqfz4lJd/edit?usp=sharing&ouid=117660180828158558651&rtpof=true&sd=true
 
-[List of relevant resources for further exploration]
+
